@@ -15,6 +15,9 @@ li{
     li{
         display: none;
     }
+    .gradient{
+        display:none;
+    }
  }
  .gradient{
     display: flex;
