@@ -16,3 +16,10 @@ li{
         display: none;
     }
  }
+ .gradient{
+    display: flex;
+    justify-content: end;
+ }
+ .gradient2{
+   
+ }
