@@ -23,6 +23,19 @@ li{
     display: flex;
     justify-content: end;
  }
- .gradient2{
-   
+ .img{
+    float:left;
+ }
+ .text{
+    position: absolute;
+    width: 450.48px;
+    height: 218.37px;
+    left: 646px;
+    top: 116px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 43px;
+    color: #FFFFFF;
  }
