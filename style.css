@@ -1,3 +1,13 @@
 body{
     background-color: #2D2D2D;;
 }
+li{
+    float:left;
+    padding: 22px;
+    color: blue;
+    list-style: none;
+    font-size: 23px;
+    width: 152px;
+    height: 29px;
+    margin-left: 110px;
+}
