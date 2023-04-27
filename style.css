@@ -19,8 +19,7 @@ li{
         display:none;
     }
     .img{
-        display:flex;
-        justify-content: start;
+       margin-top: 1px;
 
     }
  }
@@ -43,4 +42,5 @@ li{
     font-size: 56px;
     line-height: 43px;
     color: #FFFFFF;
+    float: left;
  }
