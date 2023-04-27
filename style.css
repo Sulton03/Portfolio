@@ -18,6 +18,11 @@ li{
     .gradient{
         display:none;
     }
+    .img{
+        display:flex;
+        justify-content: start;
+
+    }
  }
  .gradient{
     display: flex;
